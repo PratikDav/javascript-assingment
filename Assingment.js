@@ -1,7 +1,7 @@
 
 
 
-// Github Repository Link :  
+// Github Repository Link :  https://github.com/PratikDav/javascript-assingment
 
 
 
@@ -83,7 +83,7 @@
 
 
 
-    
+
 //  Forth Problem : Mega Friend
 
     const friendsName = ['Rajiya Sultana','Ritu Chakrabarthee','Mithila Dey','Pratik Dav','Ankur Chakrabarthee','Abrethee Biswash'];
